@@ -1,1 +1,1 @@
-# gha-bulkcomponent-2
+# gh-bulkcomponent-testRepo-2
